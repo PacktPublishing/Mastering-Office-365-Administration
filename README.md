@@ -32,3 +32,7 @@ You can sign up for a free 30-day trial tenant at https://products.office.com/en
 * [Microsoft Office 365 – Exchange Online Implementation and Migration - Second Edition](https://www.packtpub.com/networking-and-servers/microsoft-office-365-exchange-online-implementation-and-migration-second-edit?utm_source=github&utm_medium=repository&utm_campaign=9781784395520)
 
 * [Getting Started with Dynamics 365 Customer Engagement [Video]](https://www.packtpub.com/game-development/getting-started-dynamics-365-customer-engagement-video?utm_source=github&utm_medium=repository&utm_campaign=9781788292887)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288638">https://packt.link/free-ebook/9781787288638 </a> </p>
